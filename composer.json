@@ -1,0 +1,13 @@
+{
+    "name": "abk-pc/personel_record",
+    "description": "To fetch personnel record to excel file using phpspreadsheet",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Abubakar Sajo"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
